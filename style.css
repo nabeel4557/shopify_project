@@ -393,6 +393,22 @@ section#partner_account div.digital_business a.button {
 /* SECTION PARTNER END''' */
 
 
+section#conditions {
+    padding: 36px;
+
+}
+section#conditions div {
+    padding: 0 76px;
+
+}
+section#conditions div p {
+    font-size: 14px;
+    margin-bottom: 12px;
+    color: #6b7177;
+
+}
+
+
 
 
 
