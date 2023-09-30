@@ -358,13 +358,13 @@ section#partner_account {
     display: flex;
     justify-content: center;
     padding-top: 96px;
-    margin: 0px 329px;
+    background-color: #f3fcf4;
+
 }
 section#partner_account div.digital_business {
     width: 800px;
-    height: 206px;
-    
-    
+    height: 270px;
+    margin: 0px 329px;
 }
 section#partner_account div.digital_business h1 {
     margin-bottom: 18px;
@@ -373,19 +373,24 @@ section#partner_account div.digital_business h1 {
 
 }
 section#partner_account div.digital_business p {
-    font-size: 24px;
-    margin-left: 130px;
-    margin-bottom: 30px;
-
+    font-size: 26px;
+  margin-bottom: 60px;
+  font-weight: 20px;
+  
 }
 section#partner_account div.digital_business a.button {
     text-decoration: none;
-    padding: 12px 29px;
+    padding: 16px 29px;
     background-color: #008060;
     color: #fff;
     border-radius: 5px;
+    font-size: 18px;
+    font-weight: 200px;
+    margin-left: 300px;
     
 }
+
+/* SECTION PARTNER END''' */
 
 
 
