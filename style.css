@@ -456,6 +456,7 @@ footer div.middle div.item ul {
 footer div.middle div.item ul li {
     padding: 6px;
 
+
 }
 footer div.middle div.item ul li h5 {
     font-weight: 800;
@@ -470,10 +471,59 @@ footer div.middle div.item ul li a {
     font-size: 14px;
     color: #b6babf;
     text-decoration: none;
-
 }
 footer div.bottom {
+    display: flex;
+    justify-content: space-between;
 
 }
+footer div.bottom div.left {
+    
+}
+footer div.bottom div.left ul {
+    display: flex;
+    list-style-type: none;
+
+}
+footer div.bottom div.left ul li {
+
+}
+footer div.bottom div.left ul li a {
+
+}
+footer div.bottom div.left ul li a img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+
+}
+footer div.bottom div.right {
+    margin-top: 20px;
+
+}
+footer div.bottom div.right ul {
+    display: flex;
+    list-style-type: none;
+
+}
+footer div.bottom div.right ul li {
+    margin: 10px;
+
+}
+footer div.bottom div.right ul li a {
+    text-decoration: none;
+}
+
+footer div.bottom div.right .country select{
+    background: none;
+    border: none;
+    color: #fff;
+}
+
+
+footer div.bottom div.right .country select option{
+    color: #000;
+}
+
 
 
